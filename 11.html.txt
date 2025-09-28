@@ -1,0 +1,10 @@
+!DOCTYPE html
+html
+head
+    title测试页面title
+head
+body
+    h1Hello World!h1
+    p如果看到这个，说明GitHub Pages工作正常p
+body
+html
